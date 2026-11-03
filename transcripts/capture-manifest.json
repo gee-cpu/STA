@@ -1,0 +1,175 @@
+{
+  "metadata": {
+    "title": "STA Email Research",
+    "source_url": "https://chatgpt.com/c/6ac84a53-c528-83e8-afd0-aff8e52e9684",
+    "captured_on": "2026-11-02",
+    "message_count": 43,
+    "assistant_messages": 42,
+    "user_messages": 1,
+    "coverage": "All 43 messages displayed by the original conversation from its earliest October 8 entry through the latest November 2 user message. Captured in overlapping rendered sections and deduplicated by message key. Hidden reasoning, alternate branches, attachments not displayed, and future updates are outside this capture.",
+    "evidence_status": "Historical conversation archive. Assistant-authored decisions and platform claims are not proof of approval, implementation, or current accuracy."
+  },
+  "windows": [
+    {
+      "snapshot": "STA-email-research-rendered.webarchive",
+      "message_keys": [
+        "07ec6e7c-9021-4bd7-b825-e9439910977e:0:assistant",
+        "3668b368-df01-4d6e-9074-8dd2916d1905:0:assistant",
+        "6239e3be-3c70-41e3-9977-d04ed16e4fd0:0:assistant",
+        "9c5e267b-c997-48d7-a36c-4de6e388e228:0:assistant",
+        "82e3d716-9121-45f9-94ef-0f59e183ed52:0:assistant",
+        "01f199f8-306d-43c5-a026-c0f18cd747ac:0:assistant",
+        "fd4c6d59-9dfa-4394-9889-7c4cbc1269c2:0:assistant"
+      ],
+      "sha256": "cf315e434286cb76f9c4becedff95679e65b918929e08da9115c093c8c520f6e"
+    },
+    {
+      "snapshot": "chat-01.webarchive",
+      "message_keys": [
+        "01f199f8-306d-43c5-a026-c0f18cd747ac:0:assistant",
+        "fd4c6d59-9dfa-4394-9889-7c4cbc1269c2:0:assistant",
+        "f1214505-4154-42d7-96b6-8c94175abd68:0:assistant",
+        "005c2d4f-b2f6-4820-addc-1aba24ea0ab2:0:assistant",
+        "ff0cfd27-4292-4ef4-8299-4578d9632692:0:assistant"
+      ],
+      "sha256": "36531792282c2d1151ef41b3dbe63a326a42a83bd5db8390e556a4d309c98a47"
+    },
+    {
+      "snapshot": "chat-02.webarchive",
+      "message_keys": [
+        "005c2d4f-b2f6-4820-addc-1aba24ea0ab2:0:assistant",
+        "ff0cfd27-4292-4ef4-8299-4578d9632692:0:assistant",
+        "66f871cd-161a-4541-8507-e9e22c70738c:0:assistant",
+        "7f551a53-2947-41fc-843c-51266b5d1e1c:0:assistant",
+        "0e0368c2-ee1a-44e1-b00a-34d18cc4fe94:0:assistant"
+      ],
+      "sha256": "0d65069a79bbe48707ca6f74568655667a5d90048a5cc56f26263c293d0eead1"
+    },
+    {
+      "snapshot": "chat-03.webarchive",
+      "message_keys": [
+        "7f551a53-2947-41fc-843c-51266b5d1e1c:0:assistant",
+        "0e0368c2-ee1a-44e1-b00a-34d18cc4fe94:0:assistant",
+        "681e64c7-09d8-4147-b6f6-bf46b60d7cef:0:assistant",
+        "81c151a9-6837-440a-9d93-8f54b97ec4de:0:assistant",
+        "21c69c44-5feb-4b7a-8ad8-57733155015f:0:assistant",
+        "749f6e61-4095-4174-90f4-4ffc4682379e:0:assistant"
+      ],
+      "sha256": "476975bca2c58475f2297ab1c1fd8bf3e7dc2a636f8c4e3bcd8b53c93e956f42"
+    },
+    {
+      "snapshot": "chat-03b.webarchive",
+      "message_keys": [
+        "81c151a9-6837-440a-9d93-8f54b97ec4de:0:assistant",
+        "21c69c44-5feb-4b7a-8ad8-57733155015f:0:assistant",
+        "749f6e61-4095-4174-90f4-4ffc4682379e:0:assistant",
+        "9eecc712-edda-4118-b7be-6456eb3c4be0:0:assistant",
+        "6cd488de-0660-4286-b6f0-16323e8cdea3:0:assistant",
+        "be0b583d-4e24-4294-8bd5-a6892922a25e:0:assistant"
+      ],
+      "sha256": "2145886dcc2126c52ff8ca0e0bb8f7a2b2ddf97bb82fa962376381985d7778c4"
+    },
+    {
+      "snapshot": "chat-04.webarchive",
+      "message_keys": [
+        "9eecc712-edda-4118-b7be-6456eb3c4be0:0:assistant",
+        "6cd488de-0660-4286-b6f0-16323e8cdea3:0:assistant",
+        "be0b583d-4e24-4294-8bd5-a6892922a25e:0:assistant",
+        "539fe680-3569-440d-917a-1321dd2963fa:0:assistant",
+        "de01bde3-76a0-4c21-bbdc-8885a6a37540:0:assistant"
+      ],
+      "sha256": "8678d1a67871f18f42486b9f081469bc89ca6ec65082dc6258d15fd2c3402976"
+    },
+    {
+      "snapshot": "chat-05.webarchive",
+      "message_keys": [
+        "539fe680-3569-440d-917a-1321dd2963fa:0:assistant",
+        "de01bde3-76a0-4c21-bbdc-8885a6a37540:0:assistant",
+        "f228a4c1-2692-459f-9794-99ee4b1cf857:0:assistant",
+        "0cd3aea3-d657-40b7-a947-f8f8cdbe6aaa:0:assistant",
+        "4f573bf7-b51e-4772-b96f-bb76db720f48:0:assistant"
+      ],
+      "sha256": "59e4000b5e3bf1f7428b29b9367a0e752b491485eae3f587c7eff14096e33243"
+    },
+    {
+      "snapshot": "chat-06.webarchive",
+      "message_keys": [
+        "0cd3aea3-d657-40b7-a947-f8f8cdbe6aaa:0:assistant",
+        "4f573bf7-b51e-4772-b96f-bb76db720f48:0:assistant",
+        "fc5f37dd-5457-40f1-be8f-d109ab6b81d0:0:assistant",
+        "08d4f0c5-b4fb-4840-b9ce-b85ffaa69248:0:assistant",
+        "b998581d-9d50-4b3b-be6b-b5f4a6d95724:0:assistant",
+        "e42c77aa-d3f5-484c-8c66-b564c96100a7:0:assistant"
+      ],
+      "sha256": "cd081373c855278ad047d862fb79edd42a719e439b1056119616d7dd404364d6"
+    },
+    {
+      "snapshot": "chat-07.webarchive",
+      "message_keys": [
+        "08d4f0c5-b4fb-4840-b9ce-b85ffaa69248:0:assistant",
+        "b998581d-9d50-4b3b-be6b-b5f4a6d95724:0:assistant",
+        "e42c77aa-d3f5-484c-8c66-b564c96100a7:0:assistant",
+        "279d1edd-2235-4d44-ac00-0a8b2f512107:0:assistant",
+        "d4aaee7d-c002-4057-819d-6713dc949600:0:assistant",
+        "614f13dc-ceac-4528-ad5b-fe39c1d8d553:0:assistant"
+      ],
+      "sha256": "6ea5d39390febc986562e09eb0586138cf28286ed569ebc7e46ba55691107836"
+    },
+    {
+      "snapshot": "chat-08.webarchive",
+      "message_keys": [
+        "279d1edd-2235-4d44-ac00-0a8b2f512107:0:assistant",
+        "d4aaee7d-c002-4057-819d-6713dc949600:0:assistant",
+        "614f13dc-ceac-4528-ad5b-fe39c1d8d553:0:assistant",
+        "b8d7e8d5-5fda-4e14-aae8-425d0f2cc2d9:0:assistant",
+        "e2a0cf1d-ec49-41de-a1da-3d53e022cc4d:0:assistant"
+      ],
+      "sha256": "acaa3ef7c9eafd791886b6bf8c537489fa3b4777706ca17911bbb918f8e85262"
+    },
+    {
+      "snapshot": "chat-09.webarchive",
+      "message_keys": [
+        "614f13dc-ceac-4528-ad5b-fe39c1d8d553:0:assistant",
+        "b8d7e8d5-5fda-4e14-aae8-425d0f2cc2d9:0:assistant",
+        "e2a0cf1d-ec49-41de-a1da-3d53e022cc4d:0:assistant",
+        "2485ab59-55bb-4bf3-ac00-fec397e6db02:0:assistant",
+        "1915cef2-c8ad-4694-a81a-7a0833227964:0:assistant",
+        "8c5999ea-5a58-400e-9f63-ed24bb062005:0:assistant"
+      ],
+      "sha256": "d440fec911b6c0e6e72218ff8742405f45b4990970d21f13e0401dfd91ad0a63"
+    },
+    {
+      "snapshot": "chat-10.webarchive",
+      "message_keys": [
+        "2485ab59-55bb-4bf3-ac00-fec397e6db02:0:assistant",
+        "1915cef2-c8ad-4694-a81a-7a0833227964:0:assistant",
+        "8c5999ea-5a58-400e-9f63-ed24bb062005:0:assistant",
+        "260b25cf-bd1b-4a21-8c02-981aa5bdd894:0:assistant",
+        "5664c511-f316-4a05-a274-ddd3e57bbecc:0:assistant"
+      ],
+      "sha256": "31757b4776fa5b201622fbe4aad411fd9498f5fe139196e07fda0b15d0555324"
+    },
+    {
+      "snapshot": "chat-11.webarchive",
+      "message_keys": [
+        "8c5999ea-5a58-400e-9f63-ed24bb062005:0:assistant",
+        "260b25cf-bd1b-4a21-8c02-981aa5bdd894:0:assistant",
+        "5664c511-f316-4a05-a274-ddd3e57bbecc:0:assistant",
+        "615fa44b-9439-4dd6-b1b5-01b976ca6bb8:0:assistant",
+        "9f52ae53-eb3e-40ed-8481-7c8d39536819:0:assistant",
+        "908e9b84-a413-4ca3-a010-b9c70ca27bcf:0:assistant"
+      ],
+      "sha256": "11d31f260b84fb040420735bd9f8b9371e4d30546964d30790d48e18ce6ce8cc"
+    },
+    {
+      "snapshot": "chat-12.webarchive",
+      "message_keys": [
+        "615fa44b-9439-4dd6-b1b5-01b976ca6bb8:0:assistant",
+        "9f52ae53-eb3e-40ed-8481-7c8d39536819:0:assistant",
+        "908e9b84-a413-4ca3-a010-b9c70ca27bcf:0:assistant",
+        "fallback-turn-0:0:user"
+      ],
+      "sha256": "67c720c6042bb67567367f611de428a0a53fc5c94a4f6cfdd8d0a476a5cb7a19"
+    }
+  ]
+}
