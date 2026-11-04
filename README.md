@@ -17,7 +17,7 @@ The November 4, 2026 research package covers vintage soccer apparel buying frict
 
 - [Complete research and automation flowchart](research/customer-seo/2026-11-04/STA-CUSTOMER-RESEARCH-2026-11-04.md)
 - [Evidence, source links and capture limitations](research/customer-seo/2026-11-04/STA-RESEARCH-PROVENANCE-2026-11-04.md)
-- [Shared wiki filing proposal, awaiting approval](research/customer-seo/2026-11-04/STA-WIKI-FILING-PROPOSAL-2026-11-04.md)
+- [Original wiki filing proposal](research/customer-seo/2026-11-04/STA-WIKI-FILING-PROPOSAL-2026-11-04.md)
 - [Archive integrity manifest](research/customer-seo/2026-11-04/manifest.json)
 
-Customer scenarios and search phrases are research hypotheses, not measured STA customer findings or search-volume data. Automation and outreach are proposals, not implemented systems or completed placements. The shared wiki remains unchanged pending its required proposal approval.
+Customer scenarios and search phrases are research hypotheses, not measured STA customer findings or search-volume data. Automation and outreach are proposals, not implemented systems or completed placements. The approved shared wiki filing is complete; all 89 wiki pages pass lint. See the [filing record](research/customer-seo/2026-11-04/STA-WIKI-FILING-COMPLETE-2026-11-04.md) and the [four archived page snapshots](research/customer-seo/2026-11-04/wiki/).

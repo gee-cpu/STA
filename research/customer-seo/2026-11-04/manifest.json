@@ -2,7 +2,7 @@
   "date": "2026-11-04",
   "timezone": "America/Los_Angeles",
   "capture_type": "complete substantive research response with adapted formatting, not a byte-for-byte chat export",
-  "wiki_status": "proposal awaiting approval; shared wiki unchanged",
+  "wiki_status": "completed after explicit proposal approval on 2026-11-04; 89 pages clean",
   "files": [
     {
       "path": "STA-CUSTOMER-RESEARCH-2026-11-04.md",
@@ -18,6 +18,31 @@
       "path": "STA-WIKI-FILING-PROPOSAL-2026-11-04.md",
       "bytes": 2780,
       "sha256": "257ae319932e3ed86c5299d6a8aa58d868483678fb6309ed6e69915b34c76ab7"
+    },
+    {
+      "path": "STA-WIKI-FILING-COMPLETE-2026-11-04.md",
+      "bytes": 1797,
+      "sha256": "081c8142626fe029c9432f4cebf4f9d13eca3659be26c97af4672f0f5e155eba"
+    },
+    {
+      "path": "wiki/sta-blog-production.md",
+      "bytes": 5151,
+      "sha256": "cffab57f09e28622c9c2b55ce039f04aaf70eaba7b798a40244dc3f0cc86d72b"
+    },
+    {
+      "path": "wiki/sta-customer-buying-friction.md",
+      "bytes": 7325,
+      "sha256": "41e85ce64b1758dd3e00608273df2a55267dad2e895082f50e63e5a63c4d2df1"
+    },
+    {
+      "path": "wiki/sta-editorial-outreach.md",
+      "bytes": 5380,
+      "sha256": "c0a27faa441d83f71a0a838dc0a7bb776ca92d74369edd08e9a7f65afc882db4"
+    },
+    {
+      "path": "wiki/sta-search-content-opportunities.md",
+      "bytes": 6786,
+      "sha256": "08612072b97fb7ddc9506ddffce7aef07c8972120a4e9376c2edadae1dde5768"
     }
   ]
 }
